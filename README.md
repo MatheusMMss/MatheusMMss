@@ -33,4 +33,6 @@ Mobile Developer, coffee lover, Kotlin and Java fan, curious about technology
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+![snake gif](https://github.com/MatheusMMss/MatheusMMss/blob/output/github-contribution-grid-snake.svg)
   
